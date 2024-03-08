@@ -1,4 +1,5 @@
 import './App.css';
+import './index.css';
 import NavBar from './NavBar';
 import PomodoroTimer from './PomodoroTimer';
 import ToDoList from './ToDoList';
