@@ -3,10 +3,11 @@
     "name": "Pomodoro Timer",
     "description": "Pomodoro Timer",
     "version": "1.0",
+    "permissions": ["activeTab"],
     "action": {
       "default_popup": "index.html",
       "default_icon": {
-        "64": "logo.png"
+        "128": "logo.png"
       }
     }
   }
